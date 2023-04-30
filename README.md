@@ -17,4 +17,6 @@ List of the most effective and rich books, that provide the most material thar c
 ### Hacking for Dummies, 6th Edition
 ### Hacking the art of exploitation
 ### Social Engineering The Science of Human Hacking
+<hr>
+<br>
 Shall be continued ...
